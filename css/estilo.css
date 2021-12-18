@@ -1,0 +1,80 @@
+/* Body */
+body{
+    margin-bottom: 100px;
+}
+body, ul, li, p{
+    margin: 0px; padding: 0px; list-style: none;
+    font-size: 1.2rem; font-family: Arial, Helvetica, sans-serif;
+}
+/* Configurações gerais */
+a{
+    text-decoration: none; color: white;
+}
+h1{
+    text-align: center; margin-top: 20px;
+}
+img{
+    max-width: 100%; display: block;
+}
+/* Header */
+.header{
+    display: flex; justify-content: space-around;
+    padding: 15px; align-items: center;
+    flex-wrap: wrap; background-color: #FFC107;
+}
+.menu{
+    display: flex;
+}
+.menu li{
+    margin-left: 20px; margin-top: 10px;
+}
+.menu li a{
+    padding: 10px;
+}
+/* Bloco 01 */
+.bloco-01{
+    display: flex; flex-wrap: wrap; max-width: 1100px;
+    margin: 0 auto;
+}
+.bloco-01 > div{
+    flex: 1 1 200px; margin: 10px;
+}
+.bloco-01 span{
+    font-weight: bold; color: black;
+}
+/* Estrelas - Fontawesome */
+.estrelas{
+    color:#FFC107;
+    display: flex;
+}
+/* Layout - Span */
+.categorias-layout{
+    margin-top: 5px; margin-bottom: 5px;
+}
+.aviso-verde{
+    background-color: green;
+    width: 40%; border-radius: 62px;
+    text-align: center;
+}
+.aviso-vermelho{
+    background-color: red;
+    width: 40%; border-radius: 62px;
+    text-align: center;
+}
+/* Footer - Rodapé */
+footer{
+    display: flex; justify-content: space-evenly;
+    padding: 30px; align-items: center;
+    flex-wrap: wrap; background-color: #323a40;
+    margin-top: 30px;
+}
+footer div span{
+    font-weight: bold; color: #FFC107;
+}
+footer div ul li{
+    color: white; font-size: 16px;
+    margin-top: 2px;
+}
+footer div ul{
+    margin-top: 10px; margin-bottom: 10px;
+}

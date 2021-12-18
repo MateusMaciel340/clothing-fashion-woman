@@ -1,0 +1,9 @@
+/* Borda laranja */
+.borda-laranja{
+    border: 3px solid #FFC107;
+}
+/* Margin do paragráfo */
+p{
+    margin-top: 16px;
+    margin-bottom: 5px;
+}

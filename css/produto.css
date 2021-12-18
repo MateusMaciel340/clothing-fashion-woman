@@ -12,3 +12,21 @@ p{
     background-color: #FFC107; padding: 20px; text-align: center;
     border: 2px solid black;
 }
+/* Select - Quantidade / camiseta-01.html */
+.selecao{
+    background-color: transparent; padding: 0 1rem 0 0;
+    margin: 0; width: 100%; font-size: inherit;
+    margin-top: 10px;
+}
+/* Botão de compra / camiseta-01.html */
+.botao-compra{
+    background-color: green; border: none;
+    border-radius: 62px; color: white;
+    font-size: 20px;
+    padding: 5px; width: 100%;
+    margin-top: 10px; cursor: pointer;
+}
+/* Lista ordenada - estilo / camiseta-01.html */
+ol li{
+    margin-bottom: 3px;
+}

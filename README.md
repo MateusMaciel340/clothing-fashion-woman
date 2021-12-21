@@ -113,11 +113,3 @@ HTML | CSS | Visual Studio Code | Google Chorme
 Licença livre.
 
 <br>
-<center>
-
-<i>
-   É melhor você tentar algo, vê-lo não funcionar e aprender com isso, do que não fazer nada (Mark Zuckerberg).
-</i>
-
-</center>
-

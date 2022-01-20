@@ -1,115 +1,179 @@
-<center>
+<p align="center">
+   <img src="https://camo.githubusercontent.com/8d5a4adeddcc9608b21c7c11943732d33b5bd789e4f123d3bf927cc41150058c/68747470733a2f2f692e696d6775722e636f6d2f76447830354f502e706e67">
+</p>
 
-## Loja Moda da Mulher
+<p align="center">
+   <img alt="License" src="https://img.shields.io/badge/license-sem-green">
+    <img alt="Lib" src="https://img.shields.io/badge/text-html-orange">
+    <img alt="Linguagem" src="https://img.shields.io/badge/text-style-blue">
+</p>
 
-![alt text](https://i.imgur.com/vDx05OP.png)
+### Sobre o projeto
 
-Visualize o projeto completo: 
-[Loja Moda Mulher - GitHub Pages](https://mateusmaciel340.github.io/loja-roupa-moda-mulher/index.html).
+<b style="color:#FFC107;">Loja Moda Mulher</b> - Seja bem-vindo à página inicial do site Moda da Mulher. Esse site foi criado com muito carinho e dedicação ao usuário que estará utilizando, seguindos todos os conceitos de uma página web. <b style="color:#FFC107;">(Fictício)</b>
 
-</center>
+<b style="color:#FFC107;">HTML</b> - HTML abreviação para a expressão inglesa HyperText Markup Language, que significa: "Linguagem de Marcação de Hipertexto" é uma linguagem de marcação utilizada na construção de páginas na Web.
 
-## Disposições do Projeto
-### Página Principal
+<b style="color:#FFC107;">CSS</b> - Cascading Style Sheets é um mecanismo para adicionar estilo a um documento web. O código CSS pode ser aplicado diretamente nas tags ou ficar contido dentro das tags style. 
 
-Seja bem-vindo à página inicial do site Moda da Mulher.
-Esse site foi criado com muito carinho e dedicação ao usuário que estará utilizando, seguindos todos os conceitos de uma página web.
+### Gama Academy
 
-Essa página é dividida em alguns pontos, sendo estes:
+<p align="center">
+   <img src="https://cdn-images-1.medium.com/max/1200/1*EGF3tCyOPIiYy3zfyg8HpA.png" width="100">
+</p>
 
-- Componentes principais - Imagens.
-- Categorias.
-- Mais Populares.
+Projeto desenvolvido para composição de um portfólio através do Gama Academy. Criação de uma página web com implementação de HTML/CSS - sem a utilização de alguma linguagem.
 
-### Camisetas
+**Desafio 01 - #XP40**
 
-Categoria escolhida como exemplo - template.
-Ela contém alguns pontos que normalmente encontra-se dividido em um elemento pai (geral) e os elementos filhos (camiseta "tal").
+### Funcionalidades
 
-Essa página é dividida em alguns pontos, sendo estes:
+- [x] Loja Moda da Mulher
+    - [x] Home
+        - [x] Compra / Modelo de entregas
+        - [x] Categorias 
+        - [x] Mais populares
+    - [x] Institucional
+        - [x] Quem somos
+        - [x] Benefícios
+        - [x] Equipe  
+    - [x] Camisetas 
+        - [x] Modelo de compras 
 
-- Capa Categoria.
-- Texto Categoria.
-- Camisetas.
+### Layout
 
-### Camiseta - Selecionada 
+O layout da aplicação da aplicação está disponível abaixo:
 
-Camiseta escolhida como exemplo - template.
-Ela contém a localização correta da camisetas, seguindo sua respectiva imagem, além dos componentes do produto.
+#### Modelos:
 
-Essa página é dividida em alguns pontos, sendo estes:
+<div>
+    <table>
+      <thead>
+        <tr>
+           <th>
+                <img src="https://i.imgur.com/Wd6zWFv.png" width="100%">
+           </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>
+                <img src="https://i.imgur.com/atWPmMo.png" width="100%">
+          </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="https://i.imgur.com/7fZQi0e.png" width="100%">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="https://i.imgur.com/kdSQY64.png" width="100%">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="https://i.imgur.com/f9OCnG8.png" width="100%">
+            </td>
+        </tr>
+      </tbody>
+    </table>
+</div>
 
-- Caminho direcional.
-- Produto escolhido.
+#### Header e Footer
 
-### Institucional
+<div>
+    <table>
+        <thead>
+            <tr>
+                <th>
+                    <img src="https://i.imgur.com/58dbDeC.png" width="100%">
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>
+                    <img src="https://i.imgur.com/DZfAmeG.png" width="100%">
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
-Institucional - normalmente encontra-se em páginas que falam diretamente da empresa, suas características, produtos, equipes e muitas outras informações.
 
-Essa página é dividida em alguns pontos, sendo estes:
 
-- Quem somos.
-- Produtos.
-- Benefícios.
-- Equipe.
+### 🚀 Como executar o projeto
 
-<center>
+Este projeto é dividido em três partes:
 
-</center>
+<ul>
+   <li>HTML (HyperText Markup Language)</li>
+   <li>CSS (Cascading Style Sheets)</li>
+</ul>
 
-## Disposições Gerais
+💡 Meu projeto contém apenas HTML (HyperText Markup Language) - CSS (Cascading Style Sheets). Não existe nenhuma linha de código através de uma linguagem de programação.
 
-### Utilização
+#### Pré-requisitos
 
-- Como instalar?
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: [Chrome](https://www.google.com/intl/pt-BR/chrome/) ou [Firefox](https://www.mozilla.org/pt-BR/firefox/new/) - Navegadores. Alem disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
 
-A instalação do repositório acontece de forma bem simples, tratando-se de componentes armazenados na web, ele pode ser feito seguindos os seguintes passos:
+##### 🧭 Rodando a aplicação web - React
 
-#### `Git clone url-projeto.git`
-#### `Realizendo o Download em Zip`
+```bash
 
-- Como acessar?
+# Clone este repositório
+$ git clone https://github.com/MateusMaciel340/loja-roupa-moda-mulher.git
 
-Certifique-se da localização correta do projeto, caso tenha feito o download, basta descompactar a pasta, e clicar no "index.html" e igualmente ao git clone.
+# Acesse a pasta do projeto no terminal/cmd - React
+$ cd agencia-cronos-adm-grupo-04/
 
-- Como editar?
+# Acesse o arquivo na web
+# acesse o arquivo index.html dentro da pasta anterior.
 
-Escolha o arquivo que deseja alterar, selecione um "abrir com" algum editor (VSCode, Sublime, Atom e etc) e tenha acesso as linhas de código.
+```
 
-### Sobre
-<center>
+### 🛠 Tecnologias
 
-![alt text](https://d335luupugsy2.cloudfront.net/images%2Flanding_page%2F926520%2Fsoco_gama.png)
+As seguintes ferramentas foram usadas na construção do projeto:
 
-</center>
+<b>Website ([HTML + CSS](https://www.w3.org/))</b>
 
-Projeto idealizado através do primeiro desafio do Gama Academy - XP40 | Desafio 01.
+<ul>
+   <li>HTML - Linguagem de Marcação de Texto</li>
+   <li>CSS - Folha de Estilo em Cascata</li>
+</ul>
 
-- Uma vitrine virtual de produtos (no melhor estilo Mercado Livre, por exemplo).
-- Uma página com detalhes de um determinado produto.
-- Uma página institucional.
 
-### Ferramentas
+### 👨‍ Contribuidores
 
-Texto | Estilo | Editor | Navegador
-:--------- | :------: | :-------: | -----
-HTML | CSS | Visual Studio Code | Google Chorme
+<div>
+    <table>
+      <thead>
+        <tr>
+           <th>
+              <img src="https://avatars.githubusercontent.com/u/55550732?v=4" width="150" style="border-radius:62px">
+           </th>
+        </tr>
+      </thead>
+      <tbody  align="center">
+           <td>
+             Mateus Sousa </br>
+             <b>
+                Desenvolvedor
+             </b>
+           </td>
+      </tbody>
+    </table>
+</div>
 
-### Autores
+### 💪 Como contribuir para o projeto
 
-<center>
+1. Faça um **fork** do projeto.
+2. Crie uma nova branch com as suas alterações: `git checkout -b minha-feature`
+3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: Minha feature"`
+4. Envie as suas alterações: `git push origin minha-feature`
 
-<img src="https://avatars.githubusercontent.com/u/55550732?v=4" width="100" style="border-radius: 62px;">
+### 📝 Licença
 
-</center>
-
-* Mateus de Sousa Maciel
-* Estudante Full Stack.
-* 20 anos, Ceará.
-* Futuro Sênior!
-
-### Licença
-
-Licença livre.
-
-<br>
+Sem.
